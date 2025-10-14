@@ -14,16 +14,16 @@ and this bot runs on CLI
 ### Installation
 1. Clone the repository
 
-    git clone https://github.com/shahansshetty/Not_a_chatbot.git
+        git clone https://github.com/shahansshetty/Not_a_chatbot.git
 
 2. Set up a python env
 
-    python -m venv env_name  
-    evn_name\Scripts\activate  # Works only for windows
+        python -m venv env_name  
+        evn_name\Scripts\activate  # Works only for windows
 
 3. Install all the requirements
 
-    pip install -r requiremnets.txt
+        pip install -r requiremnets.txt
 
 ### Configuration
 Create a .env file in your folder , and then paste your api key there.
