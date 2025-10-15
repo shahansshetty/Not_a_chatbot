@@ -40,7 +40,7 @@ Now you can chat with your own personal chatbot !!
 Enjoy
 
 ## Credits
-*credits to this YouTube video https://youtu.be/CJjSOzb0IYs?si=Wl13u5m_1VCkk8uS
+*credits to this YouTube video https://youtu.be/q5HiD5PNuck?si=3fHdYUEZW4W7tdxQ
 to help me build the chatbot
 
 
